@@ -1,5 +1,9 @@
 .DS_Store
 .ipynb_checkpoints
+
+api_keys.env
+
 data_embedding/
 data/
 res/
+openai/
